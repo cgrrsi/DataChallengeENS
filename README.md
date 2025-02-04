@@ -1,4 +1,4 @@
-# ENS Data Challenge: Electricity Price Modeling
+# ENS Data Challenge
 
 ## Context
 The price of electricity is influenced by numerous factors: climate, energy production, raw materials, geopolitics, and international trade. This project aims to model the daily variation in electricity futures prices in France and Germany, using meteorological, energy, and commercial data.
